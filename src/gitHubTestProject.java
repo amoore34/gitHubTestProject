@@ -4,6 +4,7 @@
 public class gitHubTestProject {
     public static void main (String[] argv)
     {
-        System.out.println("\n\n\n\nTest on git hub.\n\n\n");
+        System.out.println("\n\n\n\nBob's Git Hub.\n\n\n");
+        
     }
 }
